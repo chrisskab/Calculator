@@ -1,0 +1,11 @@
+2019-01-03 12:11:27 INFO  Main:19 - program starting
+2019-01-03 12:11:27 INFO  Main:26 - arguments: add(1,2)
+2019-01-03 12:11:27 INFO  Calculator:30 - Calculator created
+2019-01-03 12:11:27 INFO  Calculator:34 - Calculator class executing
+2019-01-03 12:11:27 INFO  Calculator:45 - tokens[]: [add, 1, 2]
+2019-01-03 12:11:27 INFO  Calculator:56 - add detected
+2019-01-03 12:11:27 INFO  Calculator:86 - number detected 1
+2019-01-03 12:11:27 INFO  Calculator:86 - number detected 2
+2019-01-03 12:11:27 INFO  Calculator:116 - add statement produced: 3
+2019-01-03 12:11:27 INFO  Calculator:47 - result: 3
+2019-01-03 12:11:27 INFO  Main:32 - program complete with value: 3
